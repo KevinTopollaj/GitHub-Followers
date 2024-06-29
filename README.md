@@ -2,15 +2,40 @@
 
 ## Table of contents
 * [Video Link](#video-link)
+* [Screenshots](#screenshots)
 * [Description](#description)
 * [Features](#Features)
-* [Screenshots](#screenshots)
 * [Architecture](#architecture)
 * [Contact](#contact)
 
 ## Video Link
 
-[GitHub Followers]()
+[GitHub Followers](https://www.linkedin.com/feed/update/urn:li:activity:7205629737115856896/)
+
+
+
+## Screenshots
+
+  Onboarding Screen 1      |  Onboarding Screen 2
+:-------------------------:|:-------------------------:
+<img src="./img/S0.png" width="300"> | <img src="./img/S1.png" width="300">
+
+  Onboarding Screen 3      |  Search Screen
+:-------------------------:|:-------------------------:
+<img src="./img/S2.png" width="300"> | <img src="./img/S3.png" width="300">
+
+  Followers Grid Screen    | Search In Followers Grid
+:-------------------------:| :-------------------------:
+<img src="./img/S4.png" width="300"> | <img src="./img/S5.png" width="300">
+
+  User Info Screen         |  GitHub profile in Safari
+:-------------------------:| :-------------------------:
+<img src="./img/S6.png" width="300"> | <img src="./img/S7.png" width="300">
+
+ User GitHub Followers Screen  | Favorites Tab Screen
+:-----------------------------:| :-------------------------:
+<img src="./img/S8.png" width="300"> | <img src="./img/S9.png" width="300">
+
 
 
 ## Description
@@ -76,29 +101,6 @@
 ### 10. Implement Persistence Manager to save favourite users:
 
 - Using a Persistence Manager that allows users to save their favorite GitHub users locally, ensuring their preferences are retained across app sessions.
-
-
-## Screenshots
-
-  Onboarding Screen 1      |  Onboarding Screen 2
-:-------------------------:|:-------------------------:
-<img src="./img/S0.png" width="300"> | <img src="./img/S1.png" width="300">
-
-  Onboarding Screen 3      |  Search Screen
-:-------------------------:|:-------------------------:
-<img src="./img/S2.png" width="300"> | <img src="./img/S3.png" width="300">
-
-  Followers Grid Screen    | Search In Followers Grid
-:-------------------------:| :-------------------------:
-<img src="./img/S4.png" width="300"> | <img src="./img/S5.png" width="300">
-
-  User Info Screen         |  GitHub profile in Safari
-:-------------------------:| :-------------------------:
-<img src="./img/S6.png" width="300"> | <img src="./img/S7.png" width="300">
-
- User GitHub Followers Screen  | Favorites Tab Screen
-:-----------------------------:| :-------------------------:
-<img src="./img/S8.png" width="300"> | <img src="./img/S9.png" width="300">
 
 
 
